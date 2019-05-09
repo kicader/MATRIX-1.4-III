@@ -1,10 +1,9 @@
 EESchema Schematic File Version 4
-LIBS:ANALYSIS-1600WRMS-MATRIX-1.4-III-CLASS-H-AUDIO-POWER-AMPLIFIER-NS-LAB-VERSION-cache
 EELAYER 29 0
 EELAYER END
 $Descr A3 16535 11693
 encoding utf-8
-Sheet 2 2
+Sheet 1 1
 Title "1600W RMS Class-H Audio Power Amplifier Core Circuit"
 Date "2019-05-08"
 Rev ""
