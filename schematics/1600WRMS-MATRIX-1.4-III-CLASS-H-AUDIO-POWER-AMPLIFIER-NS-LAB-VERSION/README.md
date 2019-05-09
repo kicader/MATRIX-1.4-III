@@ -4,12 +4,12 @@
 BASIC TECHNICAL SPECIFICATIONS
 ------------------------------
 
-Output Power Rating: 1600 watts RMS
-Output Amplitude Rating: 80.8V RMS
-Minimum Output Load Impedance: 4-ohms
-High Rail: 120V DC precision dual-supply
-Low Rail: 42V DC precision dual-supply
-Input: 1V RMS nominal, 10V RMS maximum
+Output Power Rating: 1600 watts RMS  
+Output Amplitude Rating: 80.8V RMS  
+Minimum Output Load Impedance: 4-ohms  
+High Rail: 120V DC precision dual-supply  
+Low Rail: 42V DC precision dual-supply  
+Input: 1V RMS nominal, 10V RMS maximum  
 
 ACKNOWLEDGMENT
 --------------
