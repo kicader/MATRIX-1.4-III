@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:ANALYSIS-1600WRMS-MATRIX-1.4-III-CLASS-H-AUDIO-POWER-AMPLIFIER-NS-LAB-VERSION-cache
 EELAYER 29 0
 EELAYER END
 $Descr A4 11693 8268
@@ -159,17 +160,6 @@ Text Label 2250 4850 0    50   ~ 0
 -42V
 Text Notes 3000 5200 0    50   ~ 0
 * Transient analysis directive for 1KHz with input at 1.41Vp\n* To apply the directive, please uncomment the line below.\n*.tran 1u 22m 20m
-$Comp
-L pspice:VSOURCE V5
-U 1 1 5C873252
-P 4200 3950
-F 0 "V5" H 4430 3997 50  0000 L CNN
-F 1 "dc 0 ac 1.41 sin(0 1.414 1k 0 0)" H 4430 3904 50  0000 L CNN
-F 2 "" H 4200 3950 50  0001 C CNN
-F 3 "~" H 4200 3950 50  0001 C CNN
-	1    4200 3950
-	1    0    0    -1  
-$EndComp
 $Comp
 L pspice:VSOURCE V6
 U 1 1 5F65DEA2
@@ -334,6 +324,17 @@ F 1 "660" H 7755 3504 50  0000 L CNN
 F 2 "" H 7700 3550 50  0001 C CNN
 F 3 "" H 7700 3550 50  0001 C CNN
 	1    7700 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L pspice:VSOURCE V5
+U 1 1 5C873252
+P 4200 3950
+F 0 "V5" H 4430 3997 50  0000 L CNN
+F 1 "dc 0 ac 1.41 sin(0 1.414 1k 0 0)" H 4430 3904 50  0000 L CNN
+F 2 "" H 4200 3950 50  0001 C CNN
+F 3 "~" H 4200 3950 50  0001 C CNN
+	1    4200 3950
 	1    0    0    -1  
 $EndComp
 $EndSCHEMATC
