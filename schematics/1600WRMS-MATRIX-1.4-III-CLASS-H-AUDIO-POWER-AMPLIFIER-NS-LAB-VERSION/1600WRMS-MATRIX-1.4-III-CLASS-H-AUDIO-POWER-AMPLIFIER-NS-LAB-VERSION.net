@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/slackware/Documents/EDA/MATRIX-1.4-III/schematics/1600WRMS-MATRIX-1.4-III-CLASS-H-AUDIO-POWER-AMPLIFIER-NS-LAB-VERSION/1600WRMS-MATRIX-1.4-III-CLASS-H-AUDIO-POWER-AMPLIFIER-NS-LAB-VERSION.sch)
-    (date "Thu 09 May 2019 10:30:24 AM UTC")
+    (date "Thu 09 May 2019 11:43:07 AM UTC")
     (tool "Eeschema 5.1.0")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -2218,7 +2218,7 @@
       (sheetpath (names /) (tstamps /))
       (tstamp 5D7188A0))
     (comp (ref C302)
-      (value 10uF)
+      (value 220uF)
       (footprint MATRIX_1.4:CAPACITOR_AE_D10mm)
       (fields
         (field (name Voltage) 16V))
