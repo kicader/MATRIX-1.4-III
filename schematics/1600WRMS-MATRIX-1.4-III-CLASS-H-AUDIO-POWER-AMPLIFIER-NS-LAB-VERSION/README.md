@@ -1,4 +1,4 @@
-1500 Watt RMS MATRIX 1.4 III Class-H Audio Power Amplifier Core Circuit
+1600 Watt RMS MATRIX 1.4 III Class-H Audio Power Amplifier Core Circuit
 =======================================================================
 
 BASIC TECHNICAL SPECIFICATIONS
