@@ -18,3 +18,10 @@ This model contain sub-circuits contributed by
 The [VCGA](https://github.com/vcga/vcga) Maintainer Team:
 1. Signal Limiter
 2. F/S.O.C.P (Fault/Short & Open Circuit Protection)
+
+ANALYSIS SIMULATION NOTE
+------------------
+
+The schematic package include SPICE netlist that may not compatible
+with certain SPICE simulator. It has been tested only with use NGSPICE V.30.
+Incompatible with SPICE-OPUS.
