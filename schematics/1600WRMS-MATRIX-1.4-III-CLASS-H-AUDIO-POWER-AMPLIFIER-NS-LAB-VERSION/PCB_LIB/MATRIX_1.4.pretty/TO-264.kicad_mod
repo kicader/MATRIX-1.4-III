@@ -1,6 +1,6 @@
-(module TO-264 (layer F.Cu) (tedit 5C947AA7)
+(module TO-264 (layer F.Cu) (tedit 5CD852A8)
   (fp_text reference REF** (at 0 -5.08) (layer F.SilkS)
-    (effects (font (size 1.27 1.27) (thickness 0.254)))
+    (effects (font (size 1.524 1.016) (thickness 0.254)))
   )
   (fp_text value TO-264 (at 0 3.81) (layer F.Fab)
     (effects (font (size 1.27 1.27) (thickness 0.254)))

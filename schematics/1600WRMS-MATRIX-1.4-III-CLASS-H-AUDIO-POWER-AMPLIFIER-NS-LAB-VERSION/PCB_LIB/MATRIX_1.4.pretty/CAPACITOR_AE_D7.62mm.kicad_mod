@@ -1,6 +1,6 @@
-(module CAPACITOR_AE_D7.62mm (layer F.Cu) (tedit 5CD2C552)
+(module CAPACITOR_AE_D7.62mm (layer F.Cu) (tedit 5CD8512F)
   (fp_text reference REF** (at 0 5.08) (layer F.SilkS)
-    (effects (font (size 1.27 1.27) (thickness 0.254)))
+    (effects (font (size 1.524 1.016) (thickness 0.254)))
   )
   (fp_text value CAPACITOR_AE_D7.62mm (at 0 6.35) (layer F.Fab)
     (effects (font (size 1.27 1.27) (thickness 0.254)))

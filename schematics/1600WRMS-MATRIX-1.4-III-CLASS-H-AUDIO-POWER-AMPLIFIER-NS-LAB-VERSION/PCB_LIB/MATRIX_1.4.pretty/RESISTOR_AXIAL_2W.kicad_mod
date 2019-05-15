@@ -1,6 +1,6 @@
-(module RESISTOR_AXIAL_2W (layer F.Cu) (tedit 5C9478A4)
+(module RESISTOR_AXIAL_2W (layer F.Cu) (tedit 5CD85247)
   (fp_text reference REF** (at 0 0) (layer F.SilkS)
-    (effects (font (size 1.27 1.27) (thickness 0.254)))
+    (effects (font (size 1.524 1.016) (thickness 0.254)))
   )
   (fp_text value RESISTOR_AXIAL_2W (at 0 0) (layer F.Fab)
     (effects (font (size 1.27 1.27) (thickness 0.254)))

@@ -1,6 +1,6 @@
-(module RESISTOR_BLOCK_5W (layer F.Cu) (tedit 5C9478F5)
+(module RESISTOR_BLOCK_5W (layer F.Cu) (tedit 5CD85255)
   (fp_text reference REF** (at 0 0) (layer F.SilkS)
-    (effects (font (size 1.27 1.27) (thickness 0.254)))
+    (effects (font (size 1.524 1.016) (thickness 0.254)))
   )
   (fp_text value RESISTOR_BLOCK_5W (at 0 0) (layer F.Fab)
     (effects (font (size 1.27 1.27) (thickness 0.254)))
